@@ -62,7 +62,7 @@ grid-template-areas:
 #categoryGrid{
   margin: 0px 5%;
   display: grid;
-  height: 300px;
+  height: 800px;
   grid-template-rows: 1fr, 1fr, 1fr;
   grid-template-columns: 1fr, 1fr, 1fr;
   grid-template-areas: 
@@ -88,7 +88,7 @@ grid-template-areas:
 
 #patio{
   grid-area: patio;
-  background-image: url("images/patio.png");
+  background-image: url("patio.png");
 }
 
 #desks{
