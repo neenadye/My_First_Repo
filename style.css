@@ -16,17 +16,17 @@ grid-template-areas:
 }
 #featuredProduct{
   grid-area:featuredProduct;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/furniture1.png");
+  background-image: url("furniture1.png");
 }
 
 #secondaryProduct{
   grid-area:secondaryProduct;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/furniture2.png");
+  background-image: url("furniture2.png");
 }
 
 #CTA{
   grid-area:CTA;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/woodbg.png");
+  background-image: url("woodbg.png");
   justify-content: space-around;
   cursor: pointer;
 }
@@ -73,27 +73,27 @@ grid-template-areas:
 
 #bookcases{
   grid-area: bookcases;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/bookcases.png");
+  background-image: url("bookcases.png");
 }
 
 #bedroom{
   grid-area: bedroom;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/beds.png");
+  background-image: url("beds.png");
 }
 
 #couches{
   grid-area: couches;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/couch.png");
+  background-image: url("couch.png");
 }
 
 #patio{
   grid-area: patio;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/patio.png");
+  background-image: url("images/patio.png");
 }
 
 #desks{
   grid-area: desks;
-  background-image: url("/Users/neenadye/Downloads/FurnitureStore/images/desks.png");
+  background-image: url("desks.png");
 }
 
 .categoryGridArea{
